@@ -2,6 +2,7 @@
 Multi-thread restaurant management simulator.
 
 Program manual in Polish:
+
 Po uruchomieniu programu wyświetla się okno główne aplikacji, generowany jest również początkowy zestaw 3 losowych dostawców,
 10 losowych posiłków do menu i 10 pojazdów (oczywiście zakładając ze ma pliku z danymi z ostatniej sesji programu).
 W centrum znajduje się mapa odzwierciedlająca aktualne położenie obiektów, po prawej jest panel informacyjny, a po lewej jest tabela z aktualnymi zamówieniami. Panel konktrolny podzielony jest na kilka dialogów.
